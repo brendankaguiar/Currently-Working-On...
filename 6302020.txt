@@ -1,5 +1,5 @@
 Programming Languages:
-32-bit Mips Assembly using Mars 4.5
+32-bit MIPS Assembly using Mars 4.5
 C++ using Sublime and the terminal as a compiler in Ubuntu 16.04
 C++ using Visual Studio 2017.
 
