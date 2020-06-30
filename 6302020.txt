@@ -7,7 +7,7 @@ Programming Concepts:
 Linked List with C++
 Register Addressing with Mips
 Compiling and Linking with Ubuntu 16.04
-Dynamic Allocation
+Dynamic Memory Allocation
 
 Mathematical Concepts:
 Combinational and Sequential Logic
