@@ -1,0 +1,15 @@
+Programming Languages:
+32-bit Mips Assembly using Mars 4.5
+C++ using Sublime and the terminal as a compiler in Ubuntu 16.04
+C++ using Visual Studio 2017.
+
+Programming Concepts:
+Linked List with C++
+Register Addressing with Mips
+Compiling and Linking with Ubuntu 16.04
+Dynamic Allocation
+
+Mathematical Concepts:
+Combinational and Sequential Logic
+Linear Algebra
+Differential Equations
