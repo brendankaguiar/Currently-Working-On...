@@ -1,6 +1,6 @@
 Programming Languages:
 C++ using Sublime and the terminal as a compiler in Ubuntu 16.04
-C++ using Visual Studio 2017.
+C++ using Visual Studio 2017
 Python using Visual Studio Code
 
 Programming Concepts:
