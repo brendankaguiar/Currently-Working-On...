@@ -1,14 +1,11 @@
-Programming Languages:
+Programming Languages and IDEs:
 C++ using Sublime and the terminal as a compiler in Ubuntu 16.04
-C++ using Visual Studio 2017
-Python using Visual Studio Code
+C++ using Visual Studio 2019
 
 Programming Concepts:
-Linked List with C++ and Python
-Compiling and Linking with Ubuntu 16.04
-Dynamic Memory Allocation
+Data Structures with C++
+Sorted Linked Lists
+Binary Search Trees
 
 Mathematical Concepts:
-Linear Algebra
-Differential Equations
-
+Fluid Mechanics
