@@ -7,5 +7,7 @@ Data Structures
 Sorted Linked Lists
 Binary Search Trees
 
-Mathematical Concepts:
-Fluid Mechanics
+Repositories To Expect:
+Linked List
+Sorted Linked List w/ Selection Sort and Merge Sort implementations
+Binary Search Tree with Preorder, Inorder, and Postorder Traversal
