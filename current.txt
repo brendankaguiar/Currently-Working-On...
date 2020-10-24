@@ -1,5 +1,5 @@
 Programming Languages and IDEs:
-C++ using Sublime and the terminal as a compiler in Ubuntu 16.04
+C++ using Sublime and Terminator in Ubuntu 16.04
 C++ using Visual Studio 2019
 
 Programming Concepts:
