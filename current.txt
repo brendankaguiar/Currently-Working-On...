@@ -6,8 +6,10 @@ Programming Concepts:
 Data Structures
 Sorted Linked Lists
 Binary Search Trees
+ANSI C for ATmega V-2560 microcontroller
 
 Repositories To Expect:
 Linked List
 Sorted Linked List w/ Selection Sort and Merge Sort implementations
 Binary Search Tree with Preorder, Inorder, and Postorder Traversal
+C code for Arduino projects.
