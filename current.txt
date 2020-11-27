@@ -4,12 +4,11 @@ C++ using Visual Studio 2019
 
 Programming Concepts:
 Data Structures
-Sorted Linked Lists
-Binary Search Trees
+Hash Tables
+Graphs
 ANSI C for ATmega V-2560 microcontroller
 
 Repositories To Expect:
-Linked List
-Sorted Linked List w/ Selection Sort and Merge Sort implementations
-Binary Search Tree with Preorder, Inorder, and Postorder Traversal
-C code for Arduino projects.
+CPE (Embedded Systems) Project
+Traveling Salesman Problem
+Essay on Hashing and OcTrees for Robotic Mapping
