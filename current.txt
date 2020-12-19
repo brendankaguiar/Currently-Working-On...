@@ -1,14 +1,12 @@
-Programming Languages and IDEs:
-C++ using Sublime and Terminator in Ubuntu 16.04
-C++ using Visual Studio 2019
+Higher Priority Academia Focus:
+Principles of Operating Systems
+Pattern Recognition
+Autonomous Mobile Robots
 
-Programming Concepts:
-Data Structures
-Hash Tables
-Graphs
-ANSI C for ATmega V-2560 microcontroller
+Lower Priority Self-Study Focus:
+Ruby on Rails
+OpenGL
+Neural Networks
 
-Repositories To Expect:
-CPE (Embedded Systems) Project
-Traveling Salesman Problem
-Essay on Hashing and OcTrees for Robotic Mapping
+Repositiories to Expect:
+...
