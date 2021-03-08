@@ -3,10 +3,6 @@ Principles of Operating Systems
 Pattern Recognition
 Autonomous Mobile Robots
 
-Lower Priority Self-Study Focus:
-Ruby on Rails
-OpenGL
-Neural Networks
-
 Repositiories to Expect:
-...
+Kalman Filter using Matlab
+Bayesian Classification Systems
