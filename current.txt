@@ -1,8 +1,9 @@
 Higher Priority Academia Focus:
 Principles of Operating Systems
-Pattern Recognition
-Autonomous Mobile Robots
 
 Repositiories to Expect:
-Kalman Filter using Matlab
-Bayesian Classification Systems
+Parallel Threads (Pthreads) with producer/consumer model
+
+Repositories to Update:
+Facial Recognition to include intruder rejection
+Consensus for Multi Robot System to sense multiple cells
