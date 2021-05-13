@@ -1,5 +1,12 @@
 Higher Priority Academia Focus:
 Principles of Operating Systems
+Functional Programming Languages
+Automata & Formal Languages
+Analysis of Algorithms
+Artificial Intelligence
+
+Lower Priority Personal Focus:
+Drone Programming
 
 Repositiories to Expect:
 Parallel Threads (Pthreads) with producer/consumer model
