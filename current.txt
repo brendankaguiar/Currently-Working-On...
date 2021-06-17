@@ -1,16 +1,17 @@
-Higher Priority Academia Focus:
-Principles of Operating Systems
+Upcoming Focus:
+C Programming at the Operating System level
 Functional Programming Languages
 Automata & Formal Languages
-Analysis of Algorithms
+Algorithm Analysis
 Artificial Intelligence
 
-Lower Priority Personal Focus:
-Drone Programming
+Current Focus:
+Embedded Systems Programming
 
 Repositiories to Expect:
-Parallel Threads (Pthreads) with producer/consumer model
+"Follow Me" Drone 
 
 Repositories to Update:
 Facial Recognition to include intruder rejection
 Consensus for Multi Robot System to sense multiple cells
+Parallel Threads (Pthreads) with producer/consumer model
